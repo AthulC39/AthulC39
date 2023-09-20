@@ -1,4 +1,5 @@
- ![banner](https://github.com/AthulC39/AthulC39/assets/115964472/a84311fa-5316-490d-8b56-98fc996a49e8)
+
+![banenr1](https://github.com/AthulC39/AthulC39/assets/115964472/53fc7830-7897-476f-8a91-2f9e532bc2a7)
 
 **`Tech Artisan (Developer/Student)`**
 
