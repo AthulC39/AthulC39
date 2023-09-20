@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hey! I'm Athul Charanthara</h1>
-
+ ![banner](https://github.com/AthulC39/AthulC39/assets/115964472/a84311fa-5316-490d-8b56-98fc996a49e8)
 
 **`Tech Artisan (Developer/Student)`**
 
-I'm a Computer Science student at Western University and this page is just a documentation of my journey through the world of dynamic programming! My projects consist of different ideas I wanted to bring-to-life using the skills I've acquired. As a programmer my goal is to contribute as much as I can with the projects I partake in while using that experience to further develop my skillset.
+Hi, I'm a Computer Science student at Western University and this page is just a documentation of my journey through the world of dynamic programming! My projects consist of different ideas I wanted to bring-to-life using the skills I've acquired. As a programmer my goal is to contribute as much as I can with the projects I partake in while using that experience to further develop my skillset.
 
 - 🔭 I’m currently working on **a CRM/ERP cloud-based software!**
 
