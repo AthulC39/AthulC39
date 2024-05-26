@@ -1,7 +1,5 @@
 
-![banenr1](https://github.com/AthulC39/AthulC39/assets/115964472/53fc7830-7897-476f-8a91-2f9e532bc2a7)
-
-**`Tech Artisan (Developer/Student)`**
+ 
 
 Hi, I'm a Computer Science student at Western University and this page is just a documentation of my journey through the world of dynamic programming! My projects consist of different ideas I wanted to bring-to-life using the skills I've acquired. As a programmer my goal is to contribute as much as I can with the projects I partake in while using that experience to further develop my skillset.
 
